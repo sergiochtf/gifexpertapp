@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Una pequeña aplicación hecha en React con Hooks para buscar y mostrar gifs animados.
+A little application done in React with Hooks to search and show gifs.
